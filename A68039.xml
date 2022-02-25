@@ -1,0 +1,1613 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Free exchanger, or, The Mint for vncurrant coyne according to the true value of graines, wanting in light gold, with the seuerall worth of all pieces of gold, at this present.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1627</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 27 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A68039</idno>
+            <idno type="STC">STC 10614.5</idno>
+            <idno type="STC">ESTC S880</idno>
+            <idno type="EEBO-CITATION">22919602</idno>
+            <idno type="OCLC">ocm 22919602</idno>
+            <idno type="VID">23210</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A68039)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 23210)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1777:25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Free exchanger, or, The Mint for vncurrant coyne according to the true value of graines, wanting in light gold, with the seuerall worth of all pieces of gold, at this present.</title>
+               </titleStmt>
+               <extent>[21] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Iames Bouuler, and are to be sold at the Mary-gold, in Pauls churchyard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1627.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A⁸(-A1) B⁴.</note>
+                  <note>Reproduction of original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Coins, English --  Early works to 1800.</term>
+               <term>Money --  Tables.</term>
+               <term>Mints --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:23210:1"/>
+            <pb facs="tcp:23210:1"/>
+            <p>THE FREE EXCHANGER: <hi>OR,</hi> The Mint for vncurrant COYNE.</p>
+            <p>According to the true value of <hi>Graines,</hi> wanting in light Gold, with the ſeuerall worth of all pieces of Gold, at this preſent.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for IAM<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>S BOVVLER, and are to be ſold at the <hi>Mary-Gold,</hi> in <hi>Pauls</hi> Churchyard, 1627.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:23210:2"/>
+            <pb facs="tcp:23210:2"/>
+            <div type="part">
+               <head>The Exchanger.</head>
+               <p>
+                  <seg rend="decorInit">B</seg>Y the Proclamation it is cleere; That euery <hi>Piece</hi> not wanting in waight aboue the Remedies de<g ref="char:EOLhyphen"/>clared in the ſaid Proclamation,</p>
+               <p>
+                  <hi>viz.</hi>
+               </p>
+               <p>
+                  <table>
+                     <head>Euery <hi>Piece</hi> of—</head>
+                     <row>
+                        <cell role="label">
+                           <hi>Shill.</hi>
+                        </cell>
+                        <cell role="label">d.</cell>
+                        <cell> </cell>
+                        <cell role="label">
+                           <hi>Graines.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell rows="6">Not wanting a<g ref="char:EOLhyphen"/>boue-</cell>
+                        <cell>33.</cell>
+                        <cell> </cell>
+                        <cell>9. Grai.</cell>
+                     </row>
+                     <row>
+                        <cell>22.</cell>
+                        <cell> </cell>
+                        <cell>6. Grai.</cell>
+                     </row>
+                     <row>
+                        <cell>16.</cell>
+                        <cell>6</cell>
+                        <cell>5. Grai.</cell>
+                     </row>
+                     <row>
+                        <cell>11.</cell>
+                        <cell> </cell>
+                        <cell>4. Grai.</cell>
+                     </row>
+                     <row>
+                        <cell>5.</cell>
+                        <cell>6.</cell>
+                        <cell>2. Grai.</cell>
+                     </row>
+                     <row>
+                        <cell>2.</cell>
+                        <cell>9.</cell>
+                        <cell>1. Grai.</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>Is Currant, and then was and ought to be accepted in payment with abatement of <hi>Two-pence</hi> a Graine, for euery graine ex<g ref="char:EOLhyphen"/>ceeding the Remedie allowed.</p>
+               <p>Now there is no alteration made con<g ref="char:EOLhyphen"/>cerning
+<pb facs="tcp:23210:3"/> theſe Pieces, by the laſt Proclama<g ref="char:EOLhyphen"/>tion, but they doe and remaine in the ſame ſtate and degree, (<hi>Money payable vpon the ſame allowance or deduction of Graines,</hi>) as they were before the ſame: as in</p>
+               <p>
+                  <table>
+                     <row>
+                        <cell role="label">
+                           <hi>Shill.</hi>
+                        </cell>
+                        <cell> </cell>
+                        <cell role="label">
+                           <hi>Graines</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>30.</cell>
+                        <cell rows="6">Remedy not to exceed</cell>
+                        <cell>4. ½</cell>
+                     </row>
+                     <row>
+                        <cell>20.</cell>
+                        <cell> </cell>
+                        <cell>3.</cell>
+                     </row>
+                     <row>
+                        <cell>15.</cell>
+                        <cell> </cell>
+                        <cell>2. ½</cell>
+                     </row>
+                     <row>
+                        <cell>10.</cell>
+                        <cell> </cell>
+                        <cell>2</cell>
+                     </row>
+                     <row>
+                        <cell>5.</cell>
+                        <cell> </cell>
+                        <cell>1</cell>
+                     </row>
+                     <row>
+                        <cell>2. 9<hi rend="sup">d</hi>.</cell>
+                        <cell> </cell>
+                        <cell>½</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>All which Remedies ſhall be allowed in euery Piece accordingly, the ſame wanting no more, being to paſſe as if it were of full waight and juſt value. But if any ſuch piece of Coyne ſhall lacke of the true weight thereof, aboue the Remedies expreſ<g ref="char:EOLhyphen"/>ſed. Then it ſhall be brought or Carried to the <hi>Exchanges</hi> or <hi>Mint,</hi> there againe to bee molten and conuerted into Coyne.</p>
+               <pb facs="tcp:23210:3"/>
+               <p>This laſt Proclamation, expreſly and by plaine termes, Extends vnto, and Compre<g ref="char:EOLhyphen"/>hends onely ſuch Pieces, which at the time of the ſaid Proclamation were <hi>Currant,</hi> for, and at the rates expreſſed in the ſame, <hi>viz.</hi> At XXX ſhillings, XX ſhillings, XV. ſhil<g ref="char:EOLhyphen"/>lings, X. ſhillings, V. ſhillings, and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>I ſhil<g ref="char:EOLhyphen"/>lings, vj pence. And therefore, for as much as all vn-euen Pieces of <hi>Iacobus,</hi> halfe Quarters, and Eights, were at the time of the ſaid laſt Proclamation Currant for other values, <hi>viz.</hi> For XXXIII. ſhillings, XXII. ſhillings, XVI. ſhillings vj. pence, XI. ſhillings, V. ſhillings vj. pence, II. ſhillings ix. pence. It is moſt cleere, That the ſame Pieces are not at all comprehended, or alte<g ref="char:EOLhyphen"/>red by the ſaid laſt Proclamation; but doe and are now Currant and payable vpon the ſame Allowances and deductions for want of waight, as they were before the pub<g ref="char:EOLhyphen"/>liſhing of the ſame. And the rather, For that there were then Pices Currant for the values mentioned in the laſt Proclamation whereof the ſame did diſpoſe, leauing the others to bee in ſuch degree and ſtate as
+<pb facs="tcp:23210:4"/> they were: As alſo for that, The princi<g ref="char:EOLhyphen"/>pall intention might bee to preſerue vp<g ref="char:EOLhyphen"/>right his Ma<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſties, euen Coynes. And therefore, the Tender of ſuch Pieces, vpon allowance and deduction for want of waight agreeable to the former Proclama<g ref="char:EOLhyphen"/>tion, is good and not confronted by the latter: But ought to bee accepted of vpon all payments of bonds, Bills of Exchange, and contracts, and duties, what<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oeuer and whereſoeuer. And this agreeth with the ge<g ref="char:EOLhyphen"/>nerall Opinion of Lawyers, And the moſt v<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uall practiſe of all men, and as Examples heere fol<g ref="char:EOLhyphen"/>lowes.</p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:23210:4"/>
+               <head>Odde Pieces. <hi>The</hi> 33<hi rend="sup">s</hi>. <hi>Piece waight, is</hi> 8<hi rend="sup">d</hi>. <hi>waight. 20. Graines 6. Mites</hi> ½</head>
+               <p>
+                  <table>
+                     <head>Euery xxxiij. ſhillings Piece wanting—</head>
+                     <row>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell role="label">s.</cell>
+                        <cell role="label">d.</cell>
+                        <cell role="label">
+                           <hi>far.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>10. Graines-</cell>
+                        <cell rows="14">Is worth at his Majeſties <hi>Exchanges</hi>
+                        </cell>
+                        <cell>30.</cell>
+                        <cell>8.</cell>
+                        <cell>1.</cell>
+                     </row>
+                     <row>
+                        <cell>11. Graines-</cell>
+                        <cell>30.</cell>
+                        <cell>6.</cell>
+                        <cell>2.</cell>
+                     </row>
+                     <row>
+                        <cell>12. Graines-</cell>
+                        <cell>30.</cell>
+                        <cell>5.</cell>
+                        <cell>0.</cell>
+                     </row>
+                     <row>
+                        <cell>13. Graines-</cell>
+                        <cell>30.</cell>
+                        <cell>3.</cell>
+                        <cell>1.</cell>
+                     </row>
+                     <row>
+                        <cell>14. Graines-</cell>
+                        <cell>30.</cell>
+                        <cell>1.</cell>
+                        <cell>2.</cell>
+                     </row>
+                     <row>
+                        <cell>15. Graines-</cell>
+                        <cell>29.</cell>
+                        <cell>11.</cell>
+                        <cell>3.</cell>
+                     </row>
+                     <row>
+                        <cell>16. Graines-</cell>
+                        <cell>29.</cell>
+                        <cell>9.</cell>
+                        <cell>0.</cell>
+                     </row>
+                     <row>
+                        <cell>17. Graines-</cell>
+                        <cell>29.</cell>
+                        <cell>7.</cell>
+                        <cell>2.</cell>
+                     </row>
+                     <row>
+                        <cell>18. Graines-</cell>
+                        <cell>29.</cell>
+                        <cell>5.</cell>
+                        <cell>3.</cell>
+                     </row>
+                     <row>
+                        <cell>19 Graines-</cell>
+                        <cell>29.</cell>
+                        <cell>3.</cell>
+                        <cell>0.</cell>
+                     </row>
+                     <row>
+                        <cell>20. Graines-</cell>
+                        <cell>29.</cell>
+                        <cell>1.</cell>
+                        <cell>2.</cell>
+                     </row>
+                     <row>
+                        <cell>21. Graines-</cell>
+                        <cell>28.</cell>
+                        <cell>11.</cell>
+                        <cell>3.</cell>
+                     </row>
+                     <row>
+                        <cell>22. Graines-</cell>
+                        <cell>28.</cell>
+                        <cell>10.</cell>
+                        <cell>1.</cell>
+                     </row>
+                     <row>
+                        <cell>23. Graines-</cell>
+                        <cell>28.</cell>
+                        <cell>8.</cell>
+                        <cell>2.</cell>
+                     </row>
+                  </table>
+               </p>
+               <pb facs="tcp:23210:5"/>
+               <p>
+                  <table>
+                     <row>
+                        <cell role="label">
+                           <hi>Wanting</hi>
+                        </cell>
+                        <cell> </cell>
+                        <cell role="label">s.</cell>
+                        <cell role="label">d.</cell>
+                        <cell role="label">q<hi rend="sup">•</hi>.</cell>
+                     </row>
+                     <row>
+                        <cell>24. Graines-</cell>
+                        <cell rows="17">Is worth at his Majeſties <hi>Exchange</hi>
+                        </cell>
+                        <cell>28.</cell>
+                        <cell>6.</cell>
+                        <cell>3.</cell>
+                     </row>
+                     <row>
+                        <cell>25. Graines-</cell>
+                        <cell>28.</cell>
+                        <cell>5.</cell>
+                        <cell>1.</cell>
+                     </row>
+                     <row>
+                        <cell>26. Graines-</cell>
+                        <cell>28.</cell>
+                        <cell>3.</cell>
+                        <cell>3.</cell>
+                     </row>
+                     <row>
+                        <cell>27. Graines-</cell>
+                        <cell>28.</cell>
+                        <cell>1.</cell>
+                        <cell>1.</cell>
+                     </row>
+                     <row>
+                        <cell>28. Graines-</cell>
+                        <cell>28.</cell>
+                        <cell>0.</cell>
+                        <cell>2.</cell>
+                     </row>
+                     <row>
+                        <cell>29. Graines-</cell>
+                        <cell>27.</cell>
+                        <cell>10.</cell>
+                        <cell>3.</cell>
+                     </row>
+                     <row>
+                        <cell>30. Graines-</cell>
+                        <cell>27.</cell>
+                        <cell>9.</cell>
+                        <cell>1.</cell>
+                     </row>
+                     <row>
+                        <cell>31. Graines-</cell>
+                        <cell>27.</cell>
+                        <cell>7.</cell>
+                        <cell>2.</cell>
+                     </row>
+                     <row>
+                        <cell>32. Graines-</cell>
+                        <cell>27.</cell>
+                        <cell>6.</cell>
+                        <cell>0.</cell>
+                     </row>
+                     <row>
+                        <cell>33. Graines-</cell>
+                        <cell>27.</cell>
+                        <cell>4.</cell>
+                        <cell>1.</cell>
+                     </row>
+                     <row>
+                        <cell>34. Graines-</cell>
+                        <cell>27.</cell>
+                        <cell>2.</cell>
+                        <cell>2.</cell>
+                     </row>
+                     <row>
+                        <cell>35. Graines-</cell>
+                        <cell>27.</cell>
+                        <cell>1.</cell>
+                        <cell>0.</cell>
+                     </row>
+                     <row>
+                        <cell>36. Graines-</cell>
+                        <cell>26.</cell>
+                        <cell>11.</cell>
+                        <cell>1.</cell>
+                     </row>
+                     <row>
+                        <cell>37. Graines-</cell>
+                        <cell>26.</cell>
+                        <cell>9.</cell>
+                        <cell>3.</cell>
+                     </row>
+                     <row>
+                        <cell>38. Graines-</cell>
+                        <cell>26.</cell>
+                        <cell>8.</cell>
+                        <cell>0.</cell>
+                     </row>
+                     <row>
+                        <cell>39. Graines-</cell>
+                        <cell>26.</cell>
+                        <cell>6.</cell>
+                        <cell>1.</cell>
+                     </row>
+                     <row>
+                        <cell>40. Graines-</cell>
+                        <cell>26.</cell>
+                        <cell>4.</cell>
+                        <cell>3.</cell>
+                     </row>
+                  </table>
+               </p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:23210:5"/>
+               <head>
+                  <hi>The</hi> 22<hi rend="sup">s</hi>. <hi>Piece waight, is</hi> 6<hi rend="sup">d</hi>. <hi>w. 10. G. 16. M.</hi>
+               </head>
+               <p>
+                  <table>
+                     <head>Euery xxij. ſhillings Piece wanting—</head>
+                     <row>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell role="label">s.</cell>
+                        <cell role="label">d.</cell>
+                        <cell role="label">
+                           <hi>far.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>7. Graines-</cell>
+                        <cell rows="24">Is worth at his Majeſties <hi>Exchanges</hi>
+                        </cell>
+                        <cell>20.</cell>
+                        <cell>3.</cell>
+                        <cell>3.</cell>
+                     </row>
+                     <row>
+                        <cell>8. Graines-</cell>
+                        <cell>20.</cell>
+                        <cell>2.</cell>
+                        <cell>0.</cell>
+                     </row>
+                     <row>
+                        <cell>9. Graines-</cell>
+                        <cell>20.</cell>
+                        <cell>0.</cell>
+                        <cell>1.</cell>
+                     </row>
+                     <row>
+                        <cell>10. Graines-</cell>
+                        <cell>19.</cell>
+                        <cell>10.</cell>
+                        <cell>3.</cell>
+                     </row>
+                     <row>
+                        <cell>11. Graines-</cell>
+                        <cell>19.</cell>
+                        <cell>9.</cell>
+                        <cell>0.</cell>
+                     </row>
+                     <row>
+                        <cell>12. Graines-</cell>
+                        <cell>19.</cell>
+                        <cell>7.</cell>
+                        <cell>2.</cell>
+                     </row>
+                     <row>
+                        <cell>13. Graines-</cell>
+                        <cell>19.</cell>
+                        <cell>5.</cell>
+                        <cell>3.</cell>
+                     </row>
+                     <row>
+                        <cell>14. Graines-</cell>
+                        <cell>19.</cell>
+                        <cell>4.</cell>
+                        <cell>0.</cell>
+                     </row>
+                     <row>
+                        <cell>15. Graines-</cell>
+                        <cell>19.</cell>
+                        <cell>2.</cell>
+                        <cell>1.</cell>
+                     </row>
+                     <row>
+                        <cell>16. Graines-</cell>
+                        <cell>19.</cell>
+                        <cell>0.</cell>
+                        <cell>3.</cell>
+                     </row>
+                     <row>
+                        <cell>17 Graines-</cell>
+                        <cell>18.</cell>
+                        <cell>11.</cell>
+                        <cell>1.</cell>
+                     </row>
+                     <row>
+                        <cell>18. Graines-</cell>
+                        <cell>18.</cell>
+                        <cell>9.</cell>
+                        <cell>2.</cell>
+                     </row>
+                     <row>
+                        <cell>19. Graines-</cell>
+                        <cell>18.</cell>
+                        <cell>7.</cell>
+                        <cell>3.</cell>
+                     </row>
+                     <row>
+                        <cell>20. Graines-</cell>
+                        <cell>18.</cell>
+                        <cell>6.</cell>
+                        <cell>1.</cell>
+                     </row>
+                     <row>
+                        <cell>21. Graines-</cell>
+                        <cell>18.</cell>
+                        <cell>4.</cell>
+                        <cell>2.</cell>
+                     </row>
+                     <row>
+                        <cell>22. Graines-</cell>
+                        <cell>18.</cell>
+                        <cell>3.</cell>
+                        <cell>0.</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <pb facs="tcp:23210:6"/>23. Graines-</cell>
+                        <cell>18.</cell>
+                        <cell>1.</cell>
+                        <cell>2.</cell>
+                     </row>
+                     <row>
+                        <cell>24. Graines-</cell>
+                        <cell>17.</cell>
+                        <cell>11.</cell>
+                        <cell>2.</cell>
+                     </row>
+                     <row>
+                        <cell>25. Graines-</cell>
+                        <cell>17.</cell>
+                        <cell>10.</cell>
+                        <cell>0.</cell>
+                     </row>
+                     <row>
+                        <cell>26. Graines-</cell>
+                        <cell>17.</cell>
+                        <cell>8.</cell>
+                        <cell>1.</cell>
+                     </row>
+                     <row>
+                        <cell>27 Graines-</cell>
+                        <cell>17.</cell>
+                        <cell>6.</cell>
+                        <cell>3.</cell>
+                     </row>
+                     <row>
+                        <cell>28. Graines-</cell>
+                        <cell>17.</cell>
+                        <cell>5.</cell>
+                        <cell>0.</cell>
+                     </row>
+                     <row>
+                        <cell>29. Graines-</cell>
+                        <cell>17.</cell>
+                        <cell>3.</cell>
+                        <cell>1.</cell>
+                     </row>
+                     <row>
+                        <cell>30. Graines-</cell>
+                        <cell>17.</cell>
+                        <cell>1.</cell>
+                        <cell>1.</cell>
+                     </row>
+                  </table>
+               </p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:23210:6"/>
+               <head>
+                  <hi>The</hi> 16<hi rend="sup">s</hi>. 6<hi rend="sup">d</hi>. <hi>Piece waight, is 4d. wt. 10. Gr. 13. Mit.</hi> ½.</head>
+               <p>
+                  <table>
+                     <head>Euery xvj. ſhillings vj. pence Piece wanting-</head>
+                     <row>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell role="label">s.</cell>
+                        <cell role="label">d.</cell>
+                        <cell role="label">
+                           <hi>far.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>6. Graines-</cell>
+                        <cell rows="13">Is worth at his Maieſties <hi>Exchanges</hi>
+                        </cell>
+                        <cell>15.</cell>
+                        <cell>4.</cell>
+                        <cell>0.</cell>
+                     </row>
+                     <row>
+                        <cell>7. Graines-</cell>
+                        <cell>15.</cell>
+                        <cell>2.</cell>
+                        <cell>1.</cell>
+                     </row>
+                     <row>
+                        <cell>8. Graines-</cell>
+                        <cell>15.</cell>
+                        <cell>0.</cell>
+                        <cell>2.</cell>
+                     </row>
+                     <row>
+                        <cell>9. Graines-</cell>
+                        <cell>14.</cell>
+                        <cell>11.</cell>
+                        <cell>0.</cell>
+                     </row>
+                     <row>
+                        <cell>10. Graines-</cell>
+                        <cell>14.</cell>
+                        <cell>9.</cell>
+                        <cell>1.</cell>
+                     </row>
+                     <row>
+                        <cell>11. Graines-</cell>
+                        <cell>14.</cell>
+                        <cell>7.</cell>
+                        <cell>2.</cell>
+                     </row>
+                     <row>
+                        <cell>12. Graines-</cell>
+                        <cell>14.</cell>
+                        <cell>6.</cell>
+                        <cell>0.</cell>
+                     </row>
+                     <row>
+                        <cell>13. Graines-</cell>
+                        <cell>14.</cell>
+                        <cell>4.</cell>
+                        <cell>1.</cell>
+                     </row>
+                     <row>
+                        <cell>14 Graines-</cell>
+                        <cell>14.</cell>
+                        <cell>2.</cell>
+                        <cell>3.</cell>
+                     </row>
+                     <row>
+                        <cell>15. Graines-</cell>
+                        <cell>14.</cell>
+                        <cell>1.</cell>
+                        <cell>0.</cell>
+                     </row>
+                     <row>
+                        <cell>16 Graines-</cell>
+                        <cell>13.</cell>
+                        <cell>11.</cell>
+                        <cell>1.</cell>
+                     </row>
+                     <row>
+                        <cell>17. Graines-</cell>
+                        <cell>13.</cell>
+                        <cell>9.</cell>
+                        <cell>3.</cell>
+                     </row>
+                     <row>
+                        <cell>18. Graines-</cell>
+                        <cell>13.</cell>
+                        <cell>8.</cell>
+                        <cell>0.</cell>
+                     </row>
+                  </table>
+               </p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:23210:7"/>
+               <head>
+                  <hi>The</hi> 11<hi rend="sup">s</hi>. <hi>Piece waight is, 3d. wt. 5. Gr. 8. Mites.</hi>
+               </head>
+               <p>
+                  <table>
+                     <head>Euery xj. ſhillings Piece wanting—</head>
+                     <row>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell role="label">s.</cell>
+                        <cell role="label">d.</cell>
+                        <cell role="label">
+                           <hi>far.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>5. Graines-</cell>
+                        <cell rows="16">Is worth at his Maieſties <hi>Exchanges</hi>
+                        </cell>
+                        <cell>9.</cell>
+                        <cell>11.</cell>
+                        <cell>1.</cell>
+                     </row>
+                     <row>
+                        <cell>6. Graines-</cell>
+                        <cell>9.</cell>
+                        <cell>9.</cell>
+                        <cell>3.</cell>
+                     </row>
+                     <row>
+                        <cell>7. Graines-</cell>
+                        <cell>9.</cell>
+                        <cell>8.</cell>
+                        <cell>0.</cell>
+                     </row>
+                     <row>
+                        <cell>8. Graines-</cell>
+                        <cell>9.</cell>
+                        <cell>6.</cell>
+                        <cell>1.</cell>
+                     </row>
+                     <row>
+                        <cell>9. Graines-</cell>
+                        <cell>9.</cell>
+                        <cell>4.</cell>
+                        <cell>1.</cell>
+                     </row>
+                     <row>
+                        <cell>10. Graines-</cell>
+                        <cell>9.</cell>
+                        <cell>3.</cell>
+                        <cell>0.</cell>
+                     </row>
+                     <row>
+                        <cell>11. Graines-</cell>
+                        <cell>9.</cell>
+                        <cell>1.</cell>
+                        <cell>2.</cell>
+                     </row>
+                     <row>
+                        <cell>12. Graines-</cell>
+                        <cell>8.</cell>
+                        <cell>11.</cell>
+                        <cell>3.</cell>
+                     </row>
+                     <row>
+                        <cell>13. Graines-</cell>
+                        <cell>8.</cell>
+                        <cell>10.</cell>
+                        <cell>0.</cell>
+                     </row>
+                     <row>
+                        <cell>14. Graines-</cell>
+                        <cell>8.</cell>
+                        <cell>8.</cell>
+                        <cell>2.</cell>
+                     </row>
+                     <row>
+                        <cell>15. Graines-</cell>
+                        <cell>8.</cell>
+                        <cell>6.</cell>
+                        <cell>3.</cell>
+                     </row>
+                     <row>
+                        <cell>16. Graines-</cell>
+                        <cell>7.</cell>
+                        <cell>5.</cell>
+                        <cell>1.</cell>
+                     </row>
+                     <row>
+                        <cell>17. Graines-</cell>
+                        <cell>8.</cell>
+                        <cell>3.</cell>
+                        <cell>2.</cell>
+                     </row>
+                     <row>
+                        <cell>18. Graines-</cell>
+                        <cell>8.</cell>
+                        <cell>1.</cell>
+                        <cell>3.</cell>
+                     </row>
+                     <row>
+                        <cell>19. Graines-</cell>
+                        <cell>8.</cell>
+                        <cell>0.</cell>
+                        <cell>1.</cell>
+                     </row>
+                     <row>
+                        <cell>20. Graines-</cell>
+                        <cell>7.</cell>
+                        <cell>10.</cell>
+                        <cell>2.</cell>
+                     </row>
+                  </table>
+               </p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:23210:7"/>
+               <head>
+                  <hi>The</hi> 5<hi rend="sup">s</hi>. 6<hi rend="sup">d</hi>. <hi>Piece weight is, 1d. wt. 14. Gr. ½ Mit.</hi>
+               </head>
+               <p>
+                  <table>
+                     <head>Euery v. ſhillings 6. pence Piece wanting—</head>
+                     <row>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell role="label">s.</cell>
+                        <cell role="label">d.</cell>
+                        <cell role="label">
+                           <hi>far.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>3. Graines-</cell>
+                        <cell rows="10">Is worth at his Majeſties <hi>Exchanges</hi>
+                        </cell>
+                        <cell>4.</cell>
+                        <cell>10.</cell>
+                        <cell>1.</cell>
+                     </row>
+                     <row>
+                        <cell>4. Graines-</cell>
+                        <cell>4.</cell>
+                        <cell>8.</cell>
+                        <cell>2.</cell>
+                     </row>
+                     <row>
+                        <cell>5. Graines-</cell>
+                        <cell>4.</cell>
+                        <cell>7.</cell>
+                        <cell>0.</cell>
+                     </row>
+                     <row>
+                        <cell>6. Graines-</cell>
+                        <cell>4.</cell>
+                        <cell>5.</cell>
+                        <cell>1.</cell>
+                     </row>
+                     <row>
+                        <cell>7. Graines-</cell>
+                        <cell>4.</cell>
+                        <cell>3.</cell>
+                        <cell>3.</cell>
+                     </row>
+                     <row>
+                        <cell>8. Graines-</cell>
+                        <cell>4.</cell>
+                        <cell>2.</cell>
+                        <cell>0.</cell>
+                     </row>
+                     <row>
+                        <cell>9. Graines-</cell>
+                        <cell>4.</cell>
+                        <cell>0.</cell>
+                        <cell>1.</cell>
+                     </row>
+                     <row>
+                        <cell>10. Graines-</cell>
+                        <cell>3.</cell>
+                        <cell>10.</cell>
+                        <cell>3.</cell>
+                     </row>
+                     <row>
+                        <cell>11. Graines-</cell>
+                        <cell>3.</cell>
+                        <cell>8.</cell>
+                        <cell>0.</cell>
+                     </row>
+                     <row>
+                        <cell>12. Graines-</cell>
+                        <cell>3.</cell>
+                        <cell>6.</cell>
+                        <cell>2.</cell>
+                     </row>
+                  </table>
+               </p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:23210:8"/>
+               <head>
+                  <hi>The</hi> 2<hi rend="sup">s</hi>. 9<hi rend="sup">d</hi>. <hi>Piece waight is,</hi> 0<hi rend="sup">d</hi>. <hi>wt. 19. Gr. 7. Mit.</hi>
+               </head>
+               <p>
+                  <table>
+                     <head>Euery ij ſhillings ix. pence Piece wanting—</head>
+                     <row>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell role="label">s.</cell>
+                        <cell role="label">d.</cell>
+                        <cell role="label">
+                           <hi>far.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>1. Graine-</cell>
+                        <cell rows="5">Is worth at his Majeſties <hi>Exchanges</hi>
+                        </cell>
+                        <cell>2.</cell>
+                        <cell>5.</cell>
+                        <cell>2.</cell>
+                     </row>
+                     <row>
+                        <cell>2. Graines-</cell>
+                        <cell>2.</cell>
+                        <cell>4.</cell>
+                        <cell>0.</cell>
+                     </row>
+                     <row>
+                        <cell>3. Graines-</cell>
+                        <cell>2.</cell>
+                        <cell>2.</cell>
+                        <cell>1.</cell>
+                     </row>
+                     <row>
+                        <cell>4. Graines-</cell>
+                        <cell>2.</cell>
+                        <cell>1.</cell>
+                        <cell>3.</cell>
+                     </row>
+                     <row>
+                        <cell>5. Graines-</cell>
+                        <cell>2.</cell>
+                        <cell>0.</cell>
+                        <cell>0.</cell>
+                     </row>
+                  </table>
+               </p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:23210:8"/>
+               <head>Euen-Pieces. <hi>The</hi> 30<hi rend="sup">s</hi>. <hi>Piece weight is, 8d. wt. 18. Gr. 15. Mit.</hi>
+               </head>
+               <p>
+                  <table>
+                     <head>Euery xxx. ſhillings Piece wanting—</head>
+                     <row>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell role="label">s.</cell>
+                        <cell role="label">d.</cell>
+                        <cell role="label">
+                           <hi>far.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>5. Graines-</cell>
+                        <cell rows="26">Is worth at his Majeſties <hi>Exchanges</hi>
+                        </cell>
+                        <cell>28.</cell>
+                        <cell>4.</cell>
+                        <cell>3.</cell>
+                     </row>
+                     <row>
+                        <cell>6. Graines-</cell>
+                        <cell>28.</cell>
+                        <cell>3.</cell>
+                        <cell>0.</cell>
+                     </row>
+                     <row>
+                        <cell>7. Graines-</cell>
+                        <cell>28.</cell>
+                        <cell>1.</cell>
+                        <cell>1.</cell>
+                     </row>
+                     <row>
+                        <cell>8. Graines-</cell>
+                        <cell>27.</cell>
+                        <cell>11.</cell>
+                        <cell>3.</cell>
+                     </row>
+                     <row>
+                        <cell>9. Graines-</cell>
+                        <cell>27.</cell>
+                        <cell>10.</cell>
+                        <cell>1.</cell>
+                     </row>
+                     <row>
+                        <cell>10 Graines-</cell>
+                        <cell>27.</cell>
+                        <cell>8.</cell>
+                        <cell>2.</cell>
+                     </row>
+                     <row>
+                        <cell>11. Graines-</cell>
+                        <cell>27.</cell>
+                        <cell>6.</cell>
+                        <cell>3.</cell>
+                     </row>
+                     <row>
+                        <cell>12. Graines-</cell>
+                        <cell>27.</cell>
+                        <cell>5</cell>
+                        <cell>1.</cell>
+                     </row>
+                     <row>
+                        <cell>13. Graines-</cell>
+                        <cell>27.</cell>
+                        <cell>3.</cell>
+                        <cell>2.</cell>
+                     </row>
+                     <row>
+                        <cell>14. Graines-</cell>
+                        <cell>27.</cell>
+                        <cell>2.</cell>
+                        <cell>0.</cell>
+                     </row>
+                     <row>
+                        <cell>15. Graines-</cell>
+                        <cell>27.</cell>
+                        <cell>0.</cell>
+                        <cell>1.</cell>
+                     </row>
+                     <row>
+                        <cell>16 Graines-</cell>
+                        <cell>26.</cell>
+                        <cell>10.</cell>
+                        <cell>2.</cell>
+                     </row>
+                     <row>
+                        <cell>17. Graines-</cell>
+                        <cell>26.</cell>
+                        <cell>9.</cell>
+                        <cell>o.</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <pb facs="tcp:23210:9"/>18. Graines-</cell>
+                        <cell>26.</cell>
+                        <cell>7.</cell>
+                        <cell>1.</cell>
+                     </row>
+                     <row>
+                        <cell>19. Graines-</cell>
+                        <cell>26.</cell>
+                        <cell>5.</cell>
+                        <cell>3.</cell>
+                     </row>
+                     <row>
+                        <cell>20. Graines-</cell>
+                        <cell>26.</cell>
+                        <cell>4.</cell>
+                        <cell>0.</cell>
+                     </row>
+                     <row>
+                        <cell>21. Graines-</cell>
+                        <cell>26.</cell>
+                        <cell>2.</cell>
+                        <cell>1.</cell>
+                     </row>
+                     <row>
+                        <cell>22. Graines-</cell>
+                        <cell>26.</cell>
+                        <cell>0.</cell>
+                        <cell>3.</cell>
+                     </row>
+                     <row>
+                        <cell>23. Graines-</cell>
+                        <cell>25.</cell>
+                        <cell>11.</cell>
+                        <cell>0.</cell>
+                     </row>
+                     <row>
+                        <cell>24. Graines-</cell>
+                        <cell>25.</cell>
+                        <cell>9.</cell>
+                        <cell>2.</cell>
+                     </row>
+                     <row>
+                        <cell>25. Graines-</cell>
+                        <cell>25.</cell>
+                        <cell>7.</cell>
+                        <cell>3.</cell>
+                     </row>
+                     <row>
+                        <cell>26. Graines-</cell>
+                        <cell>25.</cell>
+                        <cell>6.</cell>
+                        <cell>o.</cell>
+                     </row>
+                     <row>
+                        <cell>27. Graines-</cell>
+                        <cell>25.</cell>
+                        <cell>4.</cell>
+                        <cell>1.</cell>
+                     </row>
+                     <row>
+                        <cell>28. Graines-</cell>
+                        <cell>25.</cell>
+                        <cell>2.</cell>
+                        <cell>2.</cell>
+                     </row>
+                     <row>
+                        <cell>29. Graines-</cell>
+                        <cell>25.</cell>
+                        <cell>1.</cell>
+                        <cell>0.</cell>
+                     </row>
+                     <row>
+                        <cell>30. Graines-</cell>
+                        <cell>24.</cell>
+                        <cell>11.</cell>
+                        <cell>1.</cell>
+                     </row>
+                  </table>
+               </p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:23210:9"/>
+               <head>
+                  <hi>The</hi> 20<hi rend="sup">s</hi>. <hi>Piece waight is,</hi> 5<hi rend="sup">d</hi>. <hi>wt. 20. Gr. 10. M<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>es.</hi>
+               </head>
+               <p>
+                  <table>
+                     <head>Euery xx. ſhillings Piece wanting—</head>
+                     <row>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell role="label">s.</cell>
+                        <cell role="label">d.</cell>
+                        <cell role="label">
+                           <hi>far.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>4. Graines-</cell>
+                        <cell rows="27">Is worth at his Maieſties <hi>Exchanges</hi>
+                        </cell>
+                        <cell>18.</cell>
+                        <cell>9.</cell>
+                        <cell>1.</cell>
+                     </row>
+                     <row>
+                        <cell>5. Graines-</cell>
+                        <cell>18.</cell>
+                        <cell>7.</cell>
+                        <cell>2.</cell>
+                     </row>
+                     <row>
+                        <cell>6. Graines-</cell>
+                        <cell>18.</cell>
+                        <cell>
+                           <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>.</cell>
+                        <cell>3.</cell>
+                     </row>
+                     <row>
+                        <cell>7. Graines-</cell>
+                        <cell>18.</cell>
+                        <cell>4.</cell>
+                        <cell>1.</cell>
+                     </row>
+                     <row>
+                        <cell>8. Graines-</cell>
+                        <cell>18.</cell>
+                        <cell>2.</cell>
+                        <cell>2.</cell>
+                     </row>
+                     <row>
+                        <cell>9. Graines-</cell>
+                        <cell>18.</cell>
+                        <cell>1.</cell>
+                        <cell>0.</cell>
+                     </row>
+                     <row>
+                        <cell>10. Graines-</cell>
+                        <cell>17.</cell>
+                        <cell>11.</cell>
+                        <cell>1.</cell>
+                     </row>
+                     <row>
+                        <cell>11. Graines-</cell>
+                        <cell>17.</cell>
+                        <cell>9.</cell>
+                        <cell>2.</cell>
+                     </row>
+                     <row>
+                        <cell>12. Graines-</cell>
+                        <cell>17.</cell>
+                        <cell>8.</cell>
+                        <cell>o.</cell>
+                     </row>
+                     <row>
+                        <cell>13. Graines-</cell>
+                        <cell>17.</cell>
+                        <cell>6.</cell>
+                        <cell>1.</cell>
+                     </row>
+                     <row>
+                        <cell>14. Graines-</cell>
+                        <cell>17.</cell>
+                        <cell>4.</cell>
+                        <cell>3.</cell>
+                     </row>
+                     <row>
+                        <cell>15. Graines-</cell>
+                        <cell>17.</cell>
+                        <cell>3.</cell>
+                        <cell>0.</cell>
+                     </row>
+                     <row>
+                        <cell>16. Graines-</cell>
+                        <cell>17.</cell>
+                        <cell>1.</cell>
+                        <cell>1.</cell>
+                     </row>
+                     <row>
+                        <cell>17. Graines-</cell>
+                        <cell>16.</cell>
+                        <cell>11.</cell>
+                        <cell>3.</cell>
+                     </row>
+                     <row>
+                        <cell>18. Graines-</cell>
+                        <cell>16.</cell>
+                        <cell>9.</cell>
+                        <cell>0.</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <pb facs="tcp:23210:10"/>19. Graines-</cell>
+                        <cell>16,</cell>
+                        <cell>7,</cell>
+                        <cell>2,</cell>
+                     </row>
+                     <row>
+                        <cell>20 Graines-</cell>
+                        <cell>16,</cell>
+                        <cell>5,</cell>
+                        <cell>3,</cell>
+                     </row>
+                     <row>
+                        <cell>21. Graines-</cell>
+                        <cell>16,</cell>
+                        <cell>3,</cell>
+                        <cell>0,</cell>
+                     </row>
+                     <row>
+                        <cell>22. Graines-</cell>
+                        <cell>16,</cell>
+                        <cell>1,</cell>
+                        <cell>2,</cell>
+                     </row>
+                     <row>
+                        <cell>23. Graines-</cell>
+                        <cell>15,</cell>
+                        <cell>11,</cell>
+                        <cell>3,</cell>
+                     </row>
+                     <row>
+                        <cell>24. Graines-</cell>
+                        <cell>15,</cell>
+                        <cell>10,</cell>
+                        <cell>1,</cell>
+                     </row>
+                     <row>
+                        <cell>25. Graines-</cell>
+                        <cell>15,</cell>
+                        <cell>8,</cell>
+                        <cell>2,</cell>
+                     </row>
+                     <row>
+                        <cell>26. Graines-</cell>
+                        <cell>15,</cell>
+                        <cell>6,</cell>
+                        <cell>3,</cell>
+                     </row>
+                     <row>
+                        <cell>27. Graines-</cell>
+                        <cell>15,</cell>
+                        <cell>5,</cell>
+                        <cell>1,</cell>
+                     </row>
+                     <row>
+                        <cell>28. Graines-</cell>
+                        <cell>15,</cell>
+                        <cell>3,</cell>
+                        <cell>2,</cell>
+                     </row>
+                     <row>
+                        <cell>29. Graines-</cell>
+                        <cell>15,</cell>
+                        <cell>2,</cell>
+                        <cell>0,</cell>
+                     </row>
+                     <row>
+                        <cell>30. Graines-</cell>
+                        <cell>15.</cell>
+                        <cell>0.</cell>
+                        <cell>2.</cell>
+                     </row>
+                  </table>
+               </p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:23210:10"/>
+               <head>
+                  <hi>The</hi> 10<hi rend="sup">s</hi>. <hi>Piece waight, is</hi> 2<hi rend="sup">d</hi>. <hi>wt, 22, Gr. 5. Mit.</hi>
+               </head>
+               <p>
+                  <table>
+                     <head>Euery x. ſhillings Piece wanting—</head>
+                     <row>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell role="label">
+                           <hi>s.</hi>
+                        </cell>
+                        <cell role="label">d.</cell>
+                        <cell role="label">
+                           <hi>far.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>3. Graines-</cell>
+                        <cell rows="18">Is worth at his Maieſt. <hi>Exchanges</hi>
+                        </cell>
+                        <cell>9,</cell>
+                        <cell>3,</cell>
+                        <cell>0.</cell>
+                     </row>
+                     <row>
+                        <cell>4. Graines-</cell>
+                        <cell>9,</cell>
+                        <cell>1,</cell>
+                        <cell>1.</cell>
+                     </row>
+                     <row>
+                        <cell>5, graines—</cell>
+                        <cell>8.</cell>
+                        <cell>11,</cell>
+                        <cell>2.</cell>
+                     </row>
+                     <row>
+                        <cell>6, graines—</cell>
+                        <cell>8,</cell>
+                        <cell>10,</cell>
+                        <cell>0.</cell>
+                     </row>
+                     <row>
+                        <cell>7, graines-</cell>
+                        <cell>8,</cell>
+                        <cell>8,</cell>
+                        <cell>1.</cell>
+                     </row>
+                     <row>
+                        <cell>8, graines—</cell>
+                        <cell>8,</cell>
+                        <cell>6,</cell>
+                        <cell>3.</cell>
+                     </row>
+                     <row>
+                        <cell>9, graines-</cell>
+                        <cell>8,</cell>
+                        <cell>5,</cell>
+                        <cell>0.</cell>
+                     </row>
+                     <row>
+                        <cell>10, graines—</cell>
+                        <cell>8,</cell>
+                        <cell>3,</cell>
+                        <cell>1.</cell>
+                     </row>
+                     <row>
+                        <cell>11, graines—</cell>
+                        <cell>8,</cell>
+                        <cell>1,</cell>
+                        <cell>3.</cell>
+                     </row>
+                     <row>
+                        <cell>12, graines—</cell>
+                        <cell>7,</cell>
+                        <cell>11,</cell>
+                        <cell>0.</cell>
+                     </row>
+                     <row>
+                        <cell>13, graines—</cell>
+                        <cell>7,</cell>
+                        <cell>9,</cell>
+                        <cell>2.</cell>
+                     </row>
+                     <row>
+                        <cell>14, graines—</cell>
+                        <cell>7,</cell>
+                        <cell>7,</cell>
+                        <cell>3.</cell>
+                     </row>
+                     <row>
+                        <cell>15, graines—</cell>
+                        <cell>7,</cell>
+                        <cell>6,</cell>
+                        <cell>0.</cell>
+                     </row>
+                     <row>
+                        <cell>16, graines—</cell>
+                        <cell>7,</cell>
+                        <cell>4,</cell>
+                        <cell>2.</cell>
+                     </row>
+                     <row>
+                        <cell>17, graiues—</cell>
+                        <cell>7,</cell>
+                        <cell>2,</cell>
+                        <cell>3.</cell>
+                     </row>
+                     <row>
+                        <cell>18, graines—</cell>
+                        <cell>7,</cell>
+                        <cell>1,</cell>
+                        <cell>1.</cell>
+                     </row>
+                     <row>
+                        <cell>19, graines—</cell>
+                        <cell>6,</cell>
+                        <cell>11,</cell>
+                        <cell>2.</cell>
+                     </row>
+                     <row>
+                        <cell>20, graines-</cell>
+                        <cell>6,</cell>
+                        <cell>9,</cell>
+                        <cell>3.</cell>
+                     </row>
+                  </table>
+               </p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:23210:11"/>
+               <head>
+                  <hi>The</hi> 5<hi rend="sup">s</hi>. <hi>Piece waight, is 1d. wt. 11. Gr. 2. Mit.</hi>
+               </head>
+               <p>
+                  <table>
+                     <head>Euery v. ſhillings Piece wanting—</head>
+                     <row>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell role="label">s.</cell>
+                        <cell role="label">d.</cell>
+                        <cell role="label">
+                           <hi>far.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>2. Graines-</cell>
+                        <cell rows="11">Is worth at his Majeſties <hi>Exchanges.</hi>
+                        </cell>
+                        <cell>4.</cell>
+                        <cell>6.</cell>
+                        <cell>0.</cell>
+                     </row>
+                     <row>
+                        <cell>3. Graines-</cell>
+                        <cell>4.</cell>
+                        <cell>5,</cell>
+                        <cell>2.</cell>
+                     </row>
+                     <row>
+                        <cell>4. Graines-</cell>
+                        <cell>4.</cell>
+                        <cell>4,</cell>
+                        <cell>0.</cell>
+                     </row>
+                     <row>
+                        <cell>5. Graines-</cell>
+                        <cell>4.</cell>
+                        <cell>2,</cell>
+                        <cell>2.</cell>
+                     </row>
+                     <row>
+                        <cell>6. Graines-</cell>
+                        <cell>4.</cell>
+                        <cell>0,</cell>
+                        <cell>3.</cell>
+                     </row>
+                     <row>
+                        <cell>7. Graines-</cell>
+                        <cell>3.</cell>
+                        <cell>11,</cell>
+                        <cell>0.</cell>
+                     </row>
+                     <row>
+                        <cell>8. Graines-</cell>
+                        <cell>3.</cell>
+                        <cell>9,</cell>
+                        <cell>2.</cell>
+                     </row>
+                     <row>
+                        <cell>9. Graines-</cell>
+                        <cell>3.</cell>
+                        <cell>7,</cell>
+                        <cell>3.</cell>
+                     </row>
+                     <row>
+                        <cell>10. Graines-</cell>
+                        <cell>3.</cell>
+                        <cell>5,</cell>
+                        <cell>0.</cell>
+                     </row>
+                     <row>
+                        <cell>11. Graines-</cell>
+                        <cell>3.</cell>
+                        <cell>3,</cell>
+                        <cell>2.</cell>
+                     </row>
+                     <row>
+                        <cell>12. Graines-</cell>
+                        <cell>3.</cell>
+                        <cell>1.</cell>
+                        <cell>3.</cell>
+                     </row>
+                  </table>
+               </p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:23210:11"/>
+               <head>
+                  <hi>The</hi> 2 s. 6<hi rend="sup">d</hi>. <hi>Piece waight is,</hi> o<hi rend="sup">d</hi>. <hi>wt. 17. Gr. ½ Mit.</hi>
+               </head>
+               <p>
+                  <table>
+                     <head>Euery ij. ſhillings vj. pence Piece wanting—</head>
+                     <row>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell role="label">s.</cell>
+                        <cell role="label">d.</cell>
+                        <cell role="label">
+                           <hi>far.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>1. Graine—</cell>
+                        <cell rows="3">Is worth at his Majeſties <hi>Exchanges</hi>
+                        </cell>
+                        <cell>2.</cell>
+                        <cell>4.</cell>
+                        <cell>2.</cell>
+                     </row>
+                     <row>
+                        <cell>2. Graines-</cell>
+                        <cell>2.</cell>
+                        <cell>2.</cell>
+                        <cell>3.</cell>
+                     </row>
+                     <row>
+                        <cell>3. Graines-</cell>
+                        <cell>2.</cell>
+                        <cell>1,</cell>
+                        <cell>0.</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>Note that if any Piece exceede any num<g ref="char:EOLhyphen"/>ber of Graines here calculated vpon it, then the Remedy and Abatement after <hi>two-pence</hi> a Graine, will make profit to the Receiuer.</p>
+               <p>And likewiſe theſe Rates will yeeld to the Receiuer of ſuch Pieces in payment, ſome ſmall Profit at his Majeſties <hi>Exchan<g ref="char:EOLhyphen"/>ges</hi> in <hi>London.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
